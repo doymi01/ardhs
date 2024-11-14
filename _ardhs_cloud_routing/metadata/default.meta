@@ -1,0 +1,12 @@
+# Processed by The Magic Script
+# Version: 0.8.4.dev35+g70675a2
+
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = none
+
+[app]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin
+
